@@ -5,7 +5,6 @@ const message = document.getElementById("message");
 const music = document.getElementById("music");
 
 const text =
-11/7/1999 ❤️✨
   `كل سنة وإنتِ طيبة يا بوسي 🤍
 يارب تكون سنة كلها فرحة وضحكة وراحة بال،
 وتحققي فيها كل اللي نفسك فيه.
@@ -14,7 +13,7 @@ const text =
 وتفضل ضحكتك السبب في إن الأيام تبقى أخف.
 وجودك جميل...
 وعيد ميلاد سعيد 🎂✨`;
-
+11/7/1999
 btn.onclick = () => {
 
 btn.style.display = "none";
